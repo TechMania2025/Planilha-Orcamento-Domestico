@@ -1,0 +1,5 @@
+{
+  "name": "Planilha de orçamento doméstico inteligente",
+  "description": "Uma aplicação web completa para gerenciamento de orçamento doméstico. Permite o acompanhamento de rendas, despesas, poupança e investimentos com resumos mensais e anuais, além de gráficos interativos para uma melhor visualização financeira.",
+  "requestFramePermissions": []
+}
