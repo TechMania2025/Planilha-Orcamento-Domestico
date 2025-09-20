@@ -1,9 +1,22 @@
 
-# Run and deploy your AI Studio app
 
-This contains everything you need to run your app locally.
+Esta ferramenta foi criada para ajudar no controle financeiro pessoal e familiar.
+Com ela, você pode registrar receitas, despesas fixas e variáveis, acompanhar saldos mensais e visualizar sua evolução ao longo do tempo.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1UjJpOrDBJEZtrPRjzB0W0g9YV_aLL35n
+Funcionalidades:
+
+Registro de entradas de renda
+
+Controle de despesas gerais (fixas e variáveis)
+
+Planejamento de poupança e investimentos
+
+Visualização da evolução do saldo anual em gráficos
+
+Estrutura simples e totalmente editável pelo usuário
+
+A ideia é dar controle total ao usuário através de fórmulas matemáticas, sem depender de automações externas ou IAs — garantindo clareza, transparência e autonomia no planejamento financeiro.
+
 
 ## Run Locally
 
