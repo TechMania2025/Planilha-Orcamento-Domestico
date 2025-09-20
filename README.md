@@ -15,7 +15,7 @@ Visualização da evolução do saldo anual em gráficos
 
 Estrutura simples e totalmente editável pelo usuário
 
-A ideia é dar controle total ao usuário através de fórmulas matemáticas, sem depender de automações externas ou IAs — garantindo clareza, transparência e autonomia no planejamento financeiro.
+A ideia é dar controle total ao usuário através de fórmulas matemáticas, sem depender de automações externas ou IAs, garantindo clareza, transparência e autonomia no planejamento financeiro.
 
 
 ## Run Locally
